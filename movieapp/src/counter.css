@@ -1,0 +1,16 @@
+.counterComponent{
+    background-color: greenyellow;
+}
+
+.counterComponent h2{
+    font-size: 28px;
+}
+
+.counterContainer{
+    display: flex;
+    align-items: center;
+}
+
+.counterContainer button, .counterContainer span{
+    font-size: 20px;
+}
